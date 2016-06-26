@@ -1,0 +1,6 @@
+lib/
+plugins/
+vendor/
+composer.json
+index.php
+composer.lock
