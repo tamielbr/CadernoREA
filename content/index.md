@@ -67,7 +67,9 @@ além de modificações no texto - você verá a contribuição delas mencionada
 ### Contribuindo ###
 O Caderno original estava hospedado em uma wiki e foi transferido para esse site em 2016. A última grande atualizção ocorreu em 2013.
 
-Caso encontre erros, use o Github ou esse [formulário](http://educacaoaberta.org/sobre/). Todo o conteúdo está hospedado no Github. Caso queira contribuir ou reutilizar esse livro, é só baixá-lo do Github.
+Caso encontre erros, use [o Github](https://github.com/tamielbr/CadernoREA) ou esse [formulário](http://educacaoaberta.org/sobre/). Todo o conteúdo está hospedado no Github. Caso queira contribuir ou reutilizar esse livro, é só [baixá-lo do Github](https://github.com/tamielbr/CadernoREA).
+
+O livro tem uma liceça [CC-BY](https://creativecommons.org/licenses/by/4.0/) [Educação Aberta](http://www.educacaoaberta.org).
 
 ###Citando esse livro###
 
