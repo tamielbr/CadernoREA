@@ -59,15 +59,17 @@ seria se tivesse sido feito somente por nós, do zero.
 
 ### Quem fez ###
 O caderno contou com a participação de várias pessoas ao longo de sua criação. Sua primeira versão foi
-construída por [Tel Amiel](http://amiel.info) com auxílio de bolsistas SAE/Unicamp (Elayne Morais e Aline Ribeiro). A revisão
-do texto (conceitual) foi feita por Bianca Santana e Carolina Rossini; textual contou com apoio de Claudia Wanderley.
+construída no [Núcleo e Informática Aplicada à Educação/NIED](http://www.nied.unicamp.br) pelo grupo de trabalho Educação Aberta, coordenador por [Tel Amiel](http://amiel.info) com auxílio de bolsistas SAE/Unicamp Elayne Morais e Aline Ribeiro. A revisão do texto foi feita por Bianca Santana e Carolina Rossini, participantes do grupo REA-Brasil. Revisão textual foi feita originalmente por Claudia Wanderley (Unicamp).
+
 Uma nova versão do Caderno contou com a participação de alunos do Curso REA (2013)[^2], que contribuiram com relatos, vídeos,
-além de modificações no texto - você verá a contribuição delas mencionada no texto.
+além de modificações no texto (você verá no texto as contribuições de: Cris Miura, Viviane Vladimirschi e Fabiana Souza).
 
 ### Contribuindo ###
-O Caderno original estava hospedado em uma wiki e foi transferido para esse site em 2016. A última grande atualizção ocorreu em 2013.
+O Caderno original estava hospedado em uma wiki e foi transferido para esse site em 2016. A última grande atualizção ocorreu em 2013, com pequenos ajustes no texto e em telas de captura em junho/2016.
 
-Caso encontre erros, use [o Github](https://github.com/tamielbr/CadernoREA) ou esse [formulário](http://educacaoaberta.org/sobre/). Todo o conteúdo está hospedado no Github. Caso queira contribuir ou reutilizar esse livro, é só [baixá-lo do Github](https://github.com/tamielbr/CadernoREA).
+Caso encontre erros ou tenha sugestões use o espaço de discussão (issues) [no Github](https://github.com/tamielbr/CadernoREA) ou esse [formulário](http://educacaoaberta.org/sobre/). Todo o conteúdo está hospedado no Github.
+
+Caso queira contribuir ou reutilizar esse livro, é só [copiá-lo ou baixá-lo do Github](https://github.com/tamielbr/CadernoREA).
 
 O livro tem uma liceça [CC-BY](https://creativecommons.org/licenses/by/4.0/) [Educação Aberta](http://www.educacaoaberta.org).
 
@@ -80,4 +82,4 @@ EDUCAÇÃO ABERTA. Recursos Educacionais Abertos (REA): Um caderno para professo
 [^1]: Para saber mais sobre como essa caderno foi feito, veja o artigo
     escrito (inglês) em:
     <http://www.irrodl.org/index.php/irrodl/article/view/1351>
-[^2]: Falamos sobre esse curso no artigo, AMIEL, T.; PRETTO, N. L.; INUZUKA, M. A.; LIMA, P. da S. N. Curso REA: a construção de um curso aberto apoiado por software livre de mídias sociais. In: II Escola Regional de Informática de Goiás. Disponível em: http://erigo.net.br.
+[^2]: Fazemos um relato desse curso aberto, oferecido em 201 no artigo AMIEL, T.; PRETTO, N. L.; INUZUKA, M. A.; LIMA, P. da S. N. Curso REA: a construção de um curso aberto apoiado por software livre de mídias sociais. II Escola Regional de Informática de Goiás. Disponível em: http://erigo.net.br.
