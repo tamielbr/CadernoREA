@@ -321,5 +321,8 @@ footer * {
     margin-top: 20px;
     display: block;
   }
-
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 }
