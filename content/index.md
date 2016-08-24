@@ -6,8 +6,8 @@ Position: 1
 <img src="assets/capa.jpg" class="imgleft">
 
 Este caderno foi feito com foco no professor do ensino básico, mas
-**pode ajudar qualquer pessoa** como um primeiro passo que queria uma introdução
-a Recursos Educacionais Abertos
+**pode ajudar qualquer pessoa** que queria uma introdução
+a Recursos Educacionais Abertos.
 
 Ao longo do caderno, nos baseamos nas nossas experiências com escolas públicas e
 particulares, particularmente com professores que trabalham com as
