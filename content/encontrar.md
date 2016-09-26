@@ -30,8 +30,8 @@ Internet. Mas buscadores e outros serviços podem ajudar na busca por
 REA[^2].
 
 Alguns sites podem ajudar você a encontrar repositórios de recursos abertos:
-* O site do grupo [REA Brasil](http://rea.net.br) tem uma lista de repositórios variados;
-* O [Mapa de Recursos Abertos](http://mira.educacaoaberta.org) lista repositórios educacionais na América Latina (português/espanhol);
+* O site do grupo [REA Brasil](http://rea.net.br) tem uma lista de repositórios e sites variados;
+* O [Mapa de Recursos Abertos - MIRA](http://mira.educacaoaberta.org) lista repositórios educacionais na América Latina com conteúdo em português/espanhol;
 * O [Mapa Global de REA](http://oerworldmap.org/) está se consolidando como um site para busca de repositórios, serviços e pessoas envolvidas com REA ao redor do mundo, explore!
 
 ### Buscando por REA ###

@@ -11,7 +11,7 @@ O uso de licenças como creative commons é permite também relacionar o **texto
 com o seu recurso através de um link. Isso pertmite que buscadores (Google, Yahoo) possam identificá-lo como um
 recurso com liceça aberta (veja como fazê-lo em [Como utilizar a sua licença](utilizar).
 
-Definir a licença do seu material usando Creative Commons é fácil! São apenas duas perguntas que
+Definir a licença do seu material usando Creative Commons é fácil. São apenas duas perguntas que
 ajudam a definir o tipo de licença entre as opções acima. Para definir
 sua licença vá à página do [Creative
 Commons](https://creativecommons.org/choose/?lang=pt). Você verá uma
